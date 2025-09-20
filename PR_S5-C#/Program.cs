@@ -10,7 +10,7 @@ namespace PR_S5_C_
     {
         static void Main(string[] args)
         {
-            ejercicio1();
+            ejercicio2();
             Console.ReadKey();
         }
 
@@ -63,6 +63,47 @@ namespace PR_S5_C_
             else
             {
                 Console.WriteLine("\nERROR: El costo ingresado no es válido.");
+            }
+        }
+        static void ejercicio2()
+        {
+            int calificacion;
+            string respuesta, nota = "";
+
+            Console.Write("Ingrese una calificación entre 0 y 20: ");
+            calificacion = int.Parse(Console.ReadLine());
+
+            if (calificacion >= 0 && calificacion <= 20)
+            {
+                switch (calificacion)
+                {
+                    case int valor when (valor >= 0 && valor <= 10):
+                        respuesta = "Desaprobado";
+                        break;
+                    case int valor when (valor >= 11 && valor <= 13):
+                        respuesta = "Regular";
+                        break;
+                    case int valor when (valor >= 14 && valor <= 17):
+                        respuesta = "Bueno";
+                        break;
+                    default:
+                        respuesta = "Excelente";
+                        break;
+                }
+
+                if (calificacion >= 14 && calificacion % 2 == 0)
+                    nota = "Buen desempeño con nota par";
+
+                if (calificacion < 11 || calificacion % 2 != 0)
+                    nota = "Requiere mejorar";
+
+                Console.WriteLine($"Su clasificación es: {respuesta} + {nota}");
+                Console.WriteLine($"\nRaíz cuadrada de la calificación: {Math.Sqrt(calificacion):F1}");
+                Console.WriteLine("Calificación elevada al cubo: " + Math.Pow(calificacion, 3));
+            }
+            else
+            {
+                Console.WriteLine("\nERROR: Calificación fuera del rango permitido.");
             }
         }
     }
