@@ -1,0 +1,7 @@
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\bin\Debug\PR_S5-C#.exe.config
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\bin\Debug\PR_S5-C#.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\bin\Debug\PR_S5-C#.pdb
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\obj\Debug\PR_S5-C#.csproj.AssemblyReference.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\obj\Debug\PR_S5-C#.csproj.CoreCompileInputs.cache
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\obj\Debug\PR_S5-C#.exe
+C:\Users\lvasq\OneDrive - Universidad Privada del Norte\Ing Sistemas\Funciones algoritmicas\Practica_S5\PRACTICA_S5\PR_S5-C#\obj\Debug\PR_S5-C#.pdb

@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36221.1 d17.14
+VisualStudioVersion = 17.14.36221.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR_S5-C#", "PR_S5-C#\PR_S5-C#.csproj", "{B5D39657-5036-4FA5-B10F-B00DDD00AA6B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PR_S5_PYTHON", "PR_S5_PYTHON\PR_S5_PYTHON.pyproj", "{D31122C3-57F6-4416-8518-DD5A256A9D8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,8 @@ Global
 		{B5D39657-5036-4FA5-B10F-B00DDD00AA6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5D39657-5036-4FA5-B10F-B00DDD00AA6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5D39657-5036-4FA5-B10F-B00DDD00AA6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31122C3-57F6-4416-8518-DD5A256A9D8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31122C3-57F6-4416-8518-DD5A256A9D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
